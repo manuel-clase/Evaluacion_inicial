@@ -27,7 +27,7 @@ img {
     height: 320px;
     background-color: black;
     border-radius: 20px;
-    box-shadow: 10px;
+    box-shadow: 10px 10px 10px;
     overflow: auto;
     width: 70%;
     margin: 0 auto;
@@ -48,7 +48,7 @@ a {
     height: 400px;
     background-color: black;
     border-radius: 20px;
-    box-shadow: 10px;
+    box-shadow: 10px 10px 10px;
     overflow: auto;
     margin-top: 50px;
     width: 70%;
